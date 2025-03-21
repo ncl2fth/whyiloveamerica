@@ -9,5 +9,19 @@
         "name": "Marc Weinmann"
     },
     "items": [
+        {
+            "id": "https://ncl2fth.github.io/whyiloveamerica/the-first-post/",
+            "url": "https://ncl2fth.github.io/whyiloveamerica/the-first-post/",
+            "title": "The First Post",
+            "summary": "This is a test post. Marc Weinmann",
+            "content_html": "<p>This is a test post.<br><br>Marc Weinmann</p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Marc Weinmann"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-03-21T16:35:19-05:00",
+            "date_modified": "2025-03-21T16:35:19-05:00"
+        }
     ]
 }
