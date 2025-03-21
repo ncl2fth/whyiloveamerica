@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Why I Love America",
     "description": "",
-    "home_page_url": "https://github.com/ncl2fth/whyiloveamerica",
-    "feed_url": "https://github.com/ncl2fth/whyiloveamerica/feed.json",
+    "home_page_url": "https://ncl2fth.github.io/whyiloveamerica",
+    "feed_url": "https://ncl2fth.github.io/whyiloveamerica/feed.json",
     "user_comment": "",
     "author": {
         "name": "Marc Weinmann"

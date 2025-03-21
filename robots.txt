@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/ncl2fth/whyiloveamerica/sitemap.xml
+Sitemap: https://ncl2fth.github.io/whyiloveamerica/sitemap.xml
