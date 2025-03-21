@@ -3,29 +3,29 @@
     <title>Why I Love America</title>
     <link href="https://ncl2fth.github.io/whyiloveamerica/feed.xml" rel="self" />
     <link href="https://ncl2fth.github.io/whyiloveamerica" />
-    <updated>2025-03-21T16:39:38-05:00</updated>
+    <updated>2025-03-21T17:04:51-05:00</updated>
     <author>
         <name>Marc Weinmann</name>
     </author>
     <id>https://ncl2fth.github.io/whyiloveamerica</id>
 
     <entry>
-        <title>The First Post</title>
+        <title>The First Post (copy)</title>
         <author>
             <name>Marc Weinmann</name>
         </author>
-        <link href="https://ncl2fth.github.io/whyiloveamerica/the-first-post/"/>
-        <id>https://ncl2fth.github.io/whyiloveamerica/the-first-post/</id>
+        <link href="https://ncl2fth.github.io/whyiloveamerica/the-first-post-2/"/>
+        <id>https://ncl2fth.github.io/whyiloveamerica/the-first-post-2/</id>
 
-        <updated>2025-03-21T16:35:19-05:00</updated>
+        <updated>2025-03-21T17:04:36-05:00</updated>
             <summary>
                 <![CDATA[
-                    This is a test post. Marc Weinmann
+                    This is a test post. #2 Marc Weinmann
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>This is a test post.<br><br>Marc Weinmann</p>
+                <p>This is a test post. #2<br><br>Marc Weinmann</p>
 <p> </p>
 <p> </p>
             ]]>
