@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Why I Love America</title>
+    <link href="https://github.com/ncl2fth/whyiloveamerica/feed.xml" rel="self" />
+    <link href="https://github.com/ncl2fth/whyiloveamerica" />
+    <updated>1969-12-31T18:00:00-06:00</updated>
+    <author>
+        <name>Marc Weinmann</name>
+    </author>
+    <id>https://github.com/ncl2fth/whyiloveamerica</id>
+
+</feed>
